@@ -1,0 +1,17 @@
+.box{
+    width: 320px;
+    height:138px ;
+    border: 1px solid #B4B4B4
+    ;  
+    margin: 70px;
+}
+h4{
+    color: #000000;
+    font-size: 14px;
+    margin-left: 10px;
+}
+p{
+    color: #808080;
+    font-size: 14px;
+    margin-left: 10px;
+}
